@@ -8,8 +8,8 @@
 #include <ArduinoJson.h>
 
 // Network credentials
-const char* ssid = "PLUSNET-2JC93C";
-const char* password = "KNHgRaVJE3KmTK";
+const char* ssid = "YOUR-SSID";
+const char* password = "YOUR-PASSWORD";
 
 // GPIO pins
 #define ONE_WIRE_BUS D2
